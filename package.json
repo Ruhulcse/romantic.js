@@ -1,0 +1,22 @@
+{
+  "name": "romantic.js",
+  "version": "1.0.0",
+  "description": "function snippet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruhulcse/romantic.js.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Ruhul Amin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruhulcse/romantic.js/issues"
+  },
+  "homepage": "https://github.com/Ruhulcse/romantic.js#readme"
+}
